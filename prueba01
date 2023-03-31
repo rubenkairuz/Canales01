@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Cable Visión Salta"
-http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1, PE
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/3
+#EXTINF:-1,Chilevision
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/4
+#EXTINF:-1,CNN Chile
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/5
+#EXTINF:-1,TV Chile
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/7
+#EXTINF:-1, PE
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/9
+#EXTINF:-1, PE
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/11
+#EXTINF:-1,Mega
+http://www.onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/15
