@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, Cablevisión Salta (Argentina)
+#EXTINF:-1, Multivisión Salta (Argentina)
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
-#EXTINF:-1, Yearmix 2015
+#EXTINF:-1, Yearmix 2015 (Música)
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 
-#EXTINF:-1, TeLeFe
-https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, Canal 13 (Argentina)
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
+
+#EXTINF:-1, La 1 (España)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
