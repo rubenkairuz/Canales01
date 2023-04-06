@@ -6,6 +6,9 @@ http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1, Multivisión Salta (Argentina)
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
+#EXTINF:-1, Canal 10 Salta (Argentina)
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, Canal 13 (Argentina)
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
 
@@ -20,3 +23,54 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1, Telemax (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1, Argentinísima Satelital (Argentina)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1, Canal 2 Salta (Argentina)
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:-1, A24 América (Argentina)
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, A24 - 1024p (Argentina)
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1, América Tv (Argentina)
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1, LN+ (Argentina)
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, IP Noticias (Argentina)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1, Canal 9 (Argentina)
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 26 (Argentina)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Crónica Tv (Argentina)
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1, Canal 7 Jujuy (Argentina)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Rural (Argentina)
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal Encuentro (Argentina)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1, Net Tv (Argentina)
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Tv Pública (Argentina)
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  City Sports (Argentina)
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  CM El Canal De La Música (Argentina)
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
